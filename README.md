@@ -1,6 +1,7 @@
 # Hi there 👋
 <div align="center">
-<p>My name is YusukeKato.<br>
+<p>My name is YusukeKato. <br>
+My favorite things are Robot and Shell one-liner (Shell-gei).<br>
 I'm managing <a href="https://yusukekato.jp">YusukeKatoBlog</a> and <a href="https://shellgei-online-judge.com">SHELLGEI ONLINE JUDGE</a>.</p>
 </div>
 
