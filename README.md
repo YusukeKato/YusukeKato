@@ -1,7 +1,7 @@
 # Hi there 👋
 <div align="center">
 <p>My name is YusukeKato. <br>
-My favorite things are Robot and Shell-gei (Shell-gei is Shell one-liner).<br>
+My favorite things are Robot and Shell-gei (Shell-gei is a shell one-liner in the CLI).<br>
 I'm managing <a href="https://yusukekato.jp">YusukeKatoBlog</a> and <a href="https://shellgei-online-judge.com">SHELLGEI ONLINE JUDGE</a>.</p>
 </div>
 
