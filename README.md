@@ -20,7 +20,7 @@ Links: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-r
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YusukeKato&layout=compact)](https://github.com/YusukeKato)
 
 # My Blog 📖
-Links: [YusukeKato/YusukeKatoBlog](https://github.com/YusukeKato/YusukeKatoBlog)
+Links: [yusukekato.jp](https://yusukekato.jp/) | [GitHub - YusukeKato/YusukeKatoBlog](https://github.com/YusukeKato/YusukeKatoBlog)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YusukeKato&repo=YusukeKatoBlog)](https://github.com/YusukeKato/YusukeKatoBlog)
 
