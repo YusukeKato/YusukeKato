@@ -24,6 +24,11 @@ Links: [yusukekato.jp](https://yusukekato.jp/) | [GitHub - YusukeKato/YusukeKato
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YusukeKato&repo=YusukeKatoBlog)](https://github.com/YusukeKato/YusukeKatoBlog)
 
+# My Notes 🗈
+Links: [YKpages](https://yusukekato.github.io/) | [GitHub - YusukeKato/yusukekato.github.io](https://github.com/YusukeKato/yusukekato.github.io)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YusukeKato&repo=yusukekato.github.io)](https://github.com/YusukeKato/yusukekato.github.io)
+
 # SHELLGEI ONLINE JUDGE 🎮
 Links: [SHELLGEI ONLINE JUDGE](https://shellgei-online-judge.com/) | [GitHub - Discussions](https://github.com/YusukeKato/ShellgeiOnlineJudge/discussions)
 
