@@ -24,7 +24,7 @@ Links: [yusukekato.jp](https://yusukekato.jp/) | [GitHub - YusukeKato/YusukeKato
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YusukeKato&repo=YusukeKatoBlog)](https://github.com/YusukeKato/YusukeKatoBlog)
 
-# My Notes 🗈
+# My Notes :memo:
 Links: [YKpages](https://yusukekato.github.io/) | [GitHub - YusukeKato/yusukekato.github.io](https://github.com/YusukeKato/yusukekato.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YusukeKato&repo=yusukekato.github.io)](https://github.com/YusukeKato/yusukekato.github.io)
