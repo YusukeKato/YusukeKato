@@ -1,7 +1,7 @@
 # Hi there 👋
 <div align="center">
 <p><a href="https://en.wikipedia.org/wiki/Robot">Robot</a> and <a href="https://b.ueda.tech/?page=01434">Shell-gei</a> (Shell-gei is a shell one-liner in the CLI).<br>
-Links: <a href="https://yusukekato.jp">YusukeKatoBlog</a>, <a href="https://shellgei-online-judge.com">SHELLGEI ONLINE JUDGE</a>.</p>
+Links: <a href="https://yusukekato.jp">YusukeKatoBlog</a> | <a href="https://shellgei-online-judge.com">SHELLGEI ONLINE JUDGE</a> | <a href="https://yusukekato.github.io/">YKpages</a></p>
 </div>
 
 <div align="center">
