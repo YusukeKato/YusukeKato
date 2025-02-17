@@ -9,7 +9,7 @@ Links: <a href="https://yusukekato.jp">YusukeKatoBlog</a> | <a href="https://she
 </div>
 
 <div align="center">
-<p>This is Blue Tree Icon</p>
+<p>This is a Blue Tree Icon</p>
 </div>
 
 # My Status 🚀
