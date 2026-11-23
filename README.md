@@ -1,4 +1,7 @@
 # Hi there 👋
+
+I build robots and enjoy writing shell one-liners (Shell-gei).
+
 <div align="center">
 <img src="https://github.com/YusukeKato/YusukeKatoBlog/blob/main/static/images/BlueTreeIcon.jpg" width="20%">
 </div>
